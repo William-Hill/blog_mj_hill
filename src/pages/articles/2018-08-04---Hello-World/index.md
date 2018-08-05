@@ -5,6 +5,8 @@ layout: post
 draft: false
 path: "/posts/hello-world/"
 category: "Intro"
+tags:
+  - "General"
 description: "Welcome to my blog."
 ---
 
